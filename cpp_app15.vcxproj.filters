@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{2437d187-13d5-45bb-b6d9-97fc718044e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stryk">
+      <UniqueIdentifier>{ac33cc64-52fa-44b2-b0ce-8c3003b0c034}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stryk.h">
+      <Filter>stryk</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
